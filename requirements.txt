@@ -1,0 +1,5 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+sqlalchemy==1.4.46
+pytest==7.3.1
+httpx==0.24.0  # Optional: For making HTTP requests in tests
